@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**ArtpokeBr/ArtpokeBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💀 I'am Art, A Computer Scientist based in Brazil.
 
-Here are some ideas to get you started:
+🎮 I personally love working with Gaming Related projects, right now I'am working at Feed the Beast and with Minecraft Modpack Development.
+Usually if I have an idea for a Modpack/Experience, I might just make a private repo and start working on it right away, although some never see the light of day haha.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 My Main Tech Stack is Javascript, Zenscript, HTML, C, Java and Graphic Design Programs like Adobe Premiere, Adobe After Effects, Adobe Photoshop, Davinci Resolve and more recently I've been learning Asesprite.
+
+Fun Facts:
+
+- I have a [Youtube Channel](https://www.youtube.com/@ArtpokeBr) and [Twitch Channel](https://www.twitch.tv/artpokebr) that I used to share my knowledge about Modded Minecraft with the Community and do Let's Plays.
+- I'am a Game Collector.
+- I was the 4th Content Creator in the whole world that Completed [Divine Journey 2](https://www.curseforge.com/minecraft/modpacks/divine-journey-2).
