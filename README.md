@@ -3,7 +3,7 @@
 💀 I'am Art, A Computer Scientist based in Brazil.
 
 🎮 I personally love working with Gaming Related projects, right now I'am working at Feed the Beast and with Minecraft Modpack Development.
-Usually if I have an idea for a Modpack/Experience, I might just make a private repo and start working on it right away, although some never see the light of day haha.
+Usually if I have an idea for a Modpack/Experience, I might just make a private repo and start working on it right away, although some might never see the light of day haha.
 
 📚 My Main Tech Stack is Javascript, Zenscript, HTML, C, Java and Graphic Design Programs like Adobe Premiere, Adobe After Effects, Adobe Photoshop, Davinci Resolve and more recently I've been learning Asesprite.
 
